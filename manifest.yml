@@ -1,0 +1,8 @@
+applications:
+- name: cricket-score
+  memory: 1024MB
+  org: vaibhavorg1
+  space: development
+  host: cricket-score-dev
+  instances: 1
+  path: target/cricketscore-0.0.1-SNAPSHOT.jar
